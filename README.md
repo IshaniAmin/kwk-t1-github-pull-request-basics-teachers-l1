@@ -3,8 +3,8 @@
 ## Objectives:
 
 1. Understand what a pull request is
-1. Identify how to create a pull request from one fork to another
-2. Identify how to add commits to an existing pull request
+2. Identify how to create a pull request from one fork to another
+3. Identify how to add commits to an existing pull request
 
 ## Overview:
 
@@ -62,7 +62,7 @@ fingers will both grasp what's going on.
 5. Make some changes on your local machine
 6. Push your code from your local system _back_ to _your_ fork
 7. Create a pull request that requests your improved code be "pulled" into the
-   source repo.
+   source repo.  
 
 ### Pull Request From One Fork To Another
 
